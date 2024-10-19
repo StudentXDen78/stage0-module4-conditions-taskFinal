@@ -11,7 +11,7 @@ public class IntegerDivider {
             System.out.println("division by zero");
             return;
         }
-        float integerDivision = (float) dividend / divider;
+        int integerDivision = dividend / divider;
         if ((integerDivision * divider) == dividend) System.out.println("can be divided completely");
         else System.out.println("cannot be divided completely");
     }
