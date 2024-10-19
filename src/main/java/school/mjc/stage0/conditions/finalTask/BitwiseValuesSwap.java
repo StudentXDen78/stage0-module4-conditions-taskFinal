@@ -2,6 +2,6 @@ package school.mjc.stage0.conditions.finalTask;
 
 public class BitwiseValuesSwap {
     public void swap(int first, int second) {
-        swap(first, second);
+        // Swawap(first, second);
     }
 }
